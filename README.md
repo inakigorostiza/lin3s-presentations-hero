@@ -6,13 +6,7 @@
 
 ## Para el equipo de LIN3S
 
-Hola. Soy profesor universitario en España y enseño marketing apoyándome en herramientas de IA. Este proyecto es una herramienta educativa de código abierto, construida sobre la plantilla **LIN3S Design Week 2020**, que automatiza la creación de presentaciones académicas a partir de documentos.
-
-Antes de distribuir esto públicamente, **quiero pedir vuestro permiso para incluir la plantilla** dentro de este repositorio. La plantilla es una pieza de diseño que vosotros creasteis, y aunque mi uso es estrictamente educativo y sin ánimo de lucro, redistribuirla sin vuestra autorización no me parece correcto.
-
-Os pido que veáis lo que se ha construido sobre vuestra plantilla y, si os parece bien, que me concedáis permiso para incluirla aquí con atribución completa. Si preferís que no se incluya, retiraré la plantilla del repositorio inmediatamente y los usuarios la proporcionarán por su cuenta.
-
-Si tenéis cualquier duda o sugerencia, podéis abrir un issue en este repositorio o contactarme directamente. *Gracias.*
+Este proyecto es una herramienta educativa de código abierto, construida sobre la plantilla **LIN3S Design Week 2020**, que automatiza la creación de presentaciones académicas a partir de documentos.
 
 ---
 
