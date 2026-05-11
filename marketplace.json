@@ -1,0 +1,15 @@
+{
+  "name": "lin3s-skills",
+  "owner": {
+    "name": "Iñaki Gorostiza",
+    "url": "https://github.com/inakigorostiza"
+  },
+  "plugins": [
+    {
+      "name": "lin3s-presentations-hero",
+      "source": "./lin3s-presentations-hero",
+      "description": "Build polished PowerPoint presentations from .docx or .pdf source documents using the LIN3S Design Week 2020 template.",
+      "version": "0.1.0"
+    }
+  ]
+}
